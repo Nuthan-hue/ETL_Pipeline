@@ -1,6 +1,6 @@
 # ETL_Pipeline
-# Commands
-astro dev start
-astro dev stop
-astro dev restart
+## Commands
+1. astro dev start
+2. astro dev stop
+3. astro dev restart
 
